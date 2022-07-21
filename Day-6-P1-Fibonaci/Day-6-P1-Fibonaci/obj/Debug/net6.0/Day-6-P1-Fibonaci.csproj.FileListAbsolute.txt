@@ -1,0 +1,15 @@
+C:\RFP\C sharp\Day-6-P1-Fibonaci\Day-6-P1-Fibonaci\bin\Debug\net6.0\Day-6-P1-Fibonaci.exe
+C:\RFP\C sharp\Day-6-P1-Fibonaci\Day-6-P1-Fibonaci\bin\Debug\net6.0\Day-6-P1-Fibonaci.deps.json
+C:\RFP\C sharp\Day-6-P1-Fibonaci\Day-6-P1-Fibonaci\bin\Debug\net6.0\Day-6-P1-Fibonaci.runtimeconfig.json
+C:\RFP\C sharp\Day-6-P1-Fibonaci\Day-6-P1-Fibonaci\bin\Debug\net6.0\Day-6-P1-Fibonaci.dll
+C:\RFP\C sharp\Day-6-P1-Fibonaci\Day-6-P1-Fibonaci\bin\Debug\net6.0\Day-6-P1-Fibonaci.pdb
+C:\RFP\C sharp\Day-6-P1-Fibonaci\Day-6-P1-Fibonaci\obj\Debug\net6.0\Day-6-P1-Fibonaci.csproj.AssemblyReference.cache
+C:\RFP\C sharp\Day-6-P1-Fibonaci\Day-6-P1-Fibonaci\obj\Debug\net6.0\Day-6-P1-Fibonaci.GeneratedMSBuildEditorConfig.editorconfig
+C:\RFP\C sharp\Day-6-P1-Fibonaci\Day-6-P1-Fibonaci\obj\Debug\net6.0\Day-6-P1-Fibonaci.AssemblyInfoInputs.cache
+C:\RFP\C sharp\Day-6-P1-Fibonaci\Day-6-P1-Fibonaci\obj\Debug\net6.0\Day-6-P1-Fibonaci.AssemblyInfo.cs
+C:\RFP\C sharp\Day-6-P1-Fibonaci\Day-6-P1-Fibonaci\obj\Debug\net6.0\Day-6-P1-Fibonaci.csproj.CoreCompileInputs.cache
+C:\RFP\C sharp\Day-6-P1-Fibonaci\Day-6-P1-Fibonaci\obj\Debug\net6.0\Day-6-P1-Fibonaci.dll
+C:\RFP\C sharp\Day-6-P1-Fibonaci\Day-6-P1-Fibonaci\obj\Debug\net6.0\refint\Day-6-P1-Fibonaci.dll
+C:\RFP\C sharp\Day-6-P1-Fibonaci\Day-6-P1-Fibonaci\obj\Debug\net6.0\Day-6-P1-Fibonaci.pdb
+C:\RFP\C sharp\Day-6-P1-Fibonaci\Day-6-P1-Fibonaci\obj\Debug\net6.0\Day-6-P1-Fibonaci.genruntimeconfig.cache
+C:\RFP\C sharp\Day-6-P1-Fibonaci\Day-6-P1-Fibonaci\obj\Debug\net6.0\ref\Day-6-P1-Fibonaci.dll
