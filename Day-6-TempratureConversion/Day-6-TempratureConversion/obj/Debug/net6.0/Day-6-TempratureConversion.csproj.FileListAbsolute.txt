@@ -1,0 +1,15 @@
+C:\RFP\C_sharp\Day-6-TempratureConversion\Day-6-TempratureConversion\bin\Debug\net6.0\Day-6-TempratureConversion.exe
+C:\RFP\C_sharp\Day-6-TempratureConversion\Day-6-TempratureConversion\bin\Debug\net6.0\Day-6-TempratureConversion.deps.json
+C:\RFP\C_sharp\Day-6-TempratureConversion\Day-6-TempratureConversion\bin\Debug\net6.0\Day-6-TempratureConversion.runtimeconfig.json
+C:\RFP\C_sharp\Day-6-TempratureConversion\Day-6-TempratureConversion\bin\Debug\net6.0\Day-6-TempratureConversion.dll
+C:\RFP\C_sharp\Day-6-TempratureConversion\Day-6-TempratureConversion\bin\Debug\net6.0\Day-6-TempratureConversion.pdb
+C:\RFP\C_sharp\Day-6-TempratureConversion\Day-6-TempratureConversion\obj\Debug\net6.0\Day-6-TempratureConversion.csproj.AssemblyReference.cache
+C:\RFP\C_sharp\Day-6-TempratureConversion\Day-6-TempratureConversion\obj\Debug\net6.0\Day-6-TempratureConversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\RFP\C_sharp\Day-6-TempratureConversion\Day-6-TempratureConversion\obj\Debug\net6.0\Day-6-TempratureConversion.AssemblyInfoInputs.cache
+C:\RFP\C_sharp\Day-6-TempratureConversion\Day-6-TempratureConversion\obj\Debug\net6.0\Day-6-TempratureConversion.AssemblyInfo.cs
+C:\RFP\C_sharp\Day-6-TempratureConversion\Day-6-TempratureConversion\obj\Debug\net6.0\Day-6-TempratureConversion.csproj.CoreCompileInputs.cache
+C:\RFP\C_sharp\Day-6-TempratureConversion\Day-6-TempratureConversion\obj\Debug\net6.0\Day-6-TempratureConversion.dll
+C:\RFP\C_sharp\Day-6-TempratureConversion\Day-6-TempratureConversion\obj\Debug\net6.0\refint\Day-6-TempratureConversion.dll
+C:\RFP\C_sharp\Day-6-TempratureConversion\Day-6-TempratureConversion\obj\Debug\net6.0\Day-6-TempratureConversion.pdb
+C:\RFP\C_sharp\Day-6-TempratureConversion\Day-6-TempratureConversion\obj\Debug\net6.0\Day-6-TempratureConversion.genruntimeconfig.cache
+C:\RFP\C_sharp\Day-6-TempratureConversion\Day-6-TempratureConversion\obj\Debug\net6.0\ref\Day-6-TempratureConversion.dll
