@@ -1,0 +1,15 @@
+C:\RFP\C_sharp\GregorianCalenderProblem\GregorianCalenderProblem\bin\Debug\net6.0\GregorianCalenderProblem.exe
+C:\RFP\C_sharp\GregorianCalenderProblem\GregorianCalenderProblem\bin\Debug\net6.0\GregorianCalenderProblem.deps.json
+C:\RFP\C_sharp\GregorianCalenderProblem\GregorianCalenderProblem\bin\Debug\net6.0\GregorianCalenderProblem.runtimeconfig.json
+C:\RFP\C_sharp\GregorianCalenderProblem\GregorianCalenderProblem\bin\Debug\net6.0\GregorianCalenderProblem.dll
+C:\RFP\C_sharp\GregorianCalenderProblem\GregorianCalenderProblem\bin\Debug\net6.0\GregorianCalenderProblem.pdb
+C:\RFP\C_sharp\GregorianCalenderProblem\GregorianCalenderProblem\obj\Debug\net6.0\GregorianCalenderProblem.csproj.AssemblyReference.cache
+C:\RFP\C_sharp\GregorianCalenderProblem\GregorianCalenderProblem\obj\Debug\net6.0\GregorianCalenderProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\RFP\C_sharp\GregorianCalenderProblem\GregorianCalenderProblem\obj\Debug\net6.0\GregorianCalenderProblem.AssemblyInfoInputs.cache
+C:\RFP\C_sharp\GregorianCalenderProblem\GregorianCalenderProblem\obj\Debug\net6.0\GregorianCalenderProblem.AssemblyInfo.cs
+C:\RFP\C_sharp\GregorianCalenderProblem\GregorianCalenderProblem\obj\Debug\net6.0\GregorianCalenderProblem.csproj.CoreCompileInputs.cache
+C:\RFP\C_sharp\GregorianCalenderProblem\GregorianCalenderProblem\obj\Debug\net6.0\GregorianCalenderProblem.dll
+C:\RFP\C_sharp\GregorianCalenderProblem\GregorianCalenderProblem\obj\Debug\net6.0\refint\GregorianCalenderProblem.dll
+C:\RFP\C_sharp\GregorianCalenderProblem\GregorianCalenderProblem\obj\Debug\net6.0\GregorianCalenderProblem.pdb
+C:\RFP\C_sharp\GregorianCalenderProblem\GregorianCalenderProblem\obj\Debug\net6.0\GregorianCalenderProblem.genruntimeconfig.cache
+C:\RFP\C_sharp\GregorianCalenderProblem\GregorianCalenderProblem\obj\Debug\net6.0\ref\GregorianCalenderProblem.dll
