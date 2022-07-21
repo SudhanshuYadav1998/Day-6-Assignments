@@ -1,0 +1,15 @@
+C:\RFP\C sharp\Day-6-ReverseNum\Day-6-ReverseNum\bin\Debug\net6.0\Day-6-ReverseNum.exe
+C:\RFP\C sharp\Day-6-ReverseNum\Day-6-ReverseNum\bin\Debug\net6.0\Day-6-ReverseNum.deps.json
+C:\RFP\C sharp\Day-6-ReverseNum\Day-6-ReverseNum\bin\Debug\net6.0\Day-6-ReverseNum.runtimeconfig.json
+C:\RFP\C sharp\Day-6-ReverseNum\Day-6-ReverseNum\bin\Debug\net6.0\Day-6-ReverseNum.dll
+C:\RFP\C sharp\Day-6-ReverseNum\Day-6-ReverseNum\bin\Debug\net6.0\Day-6-ReverseNum.pdb
+C:\RFP\C sharp\Day-6-ReverseNum\Day-6-ReverseNum\obj\Debug\net6.0\Day-6-ReverseNum.csproj.AssemblyReference.cache
+C:\RFP\C sharp\Day-6-ReverseNum\Day-6-ReverseNum\obj\Debug\net6.0\Day-6-ReverseNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\RFP\C sharp\Day-6-ReverseNum\Day-6-ReverseNum\obj\Debug\net6.0\Day-6-ReverseNum.AssemblyInfoInputs.cache
+C:\RFP\C sharp\Day-6-ReverseNum\Day-6-ReverseNum\obj\Debug\net6.0\Day-6-ReverseNum.AssemblyInfo.cs
+C:\RFP\C sharp\Day-6-ReverseNum\Day-6-ReverseNum\obj\Debug\net6.0\Day-6-ReverseNum.csproj.CoreCompileInputs.cache
+C:\RFP\C sharp\Day-6-ReverseNum\Day-6-ReverseNum\obj\Debug\net6.0\Day-6-ReverseNum.dll
+C:\RFP\C sharp\Day-6-ReverseNum\Day-6-ReverseNum\obj\Debug\net6.0\refint\Day-6-ReverseNum.dll
+C:\RFP\C sharp\Day-6-ReverseNum\Day-6-ReverseNum\obj\Debug\net6.0\Day-6-ReverseNum.pdb
+C:\RFP\C sharp\Day-6-ReverseNum\Day-6-ReverseNum\obj\Debug\net6.0\Day-6-ReverseNum.genruntimeconfig.cache
+C:\RFP\C sharp\Day-6-ReverseNum\Day-6-ReverseNum\obj\Debug\net6.0\ref\Day-6-ReverseNum.dll
