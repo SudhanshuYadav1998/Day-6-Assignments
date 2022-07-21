@@ -1,0 +1,15 @@
+C:\RFP\C_sharp\Day-6-StopWatch\Day-6-StopWatch\bin\Debug\net6.0\Day-6-StopWatch.exe
+C:\RFP\C_sharp\Day-6-StopWatch\Day-6-StopWatch\bin\Debug\net6.0\Day-6-StopWatch.deps.json
+C:\RFP\C_sharp\Day-6-StopWatch\Day-6-StopWatch\bin\Debug\net6.0\Day-6-StopWatch.runtimeconfig.json
+C:\RFP\C_sharp\Day-6-StopWatch\Day-6-StopWatch\bin\Debug\net6.0\Day-6-StopWatch.dll
+C:\RFP\C_sharp\Day-6-StopWatch\Day-6-StopWatch\bin\Debug\net6.0\Day-6-StopWatch.pdb
+C:\RFP\C_sharp\Day-6-StopWatch\Day-6-StopWatch\obj\Debug\net6.0\Day-6-StopWatch.csproj.AssemblyReference.cache
+C:\RFP\C_sharp\Day-6-StopWatch\Day-6-StopWatch\obj\Debug\net6.0\Day-6-StopWatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\RFP\C_sharp\Day-6-StopWatch\Day-6-StopWatch\obj\Debug\net6.0\Day-6-StopWatch.AssemblyInfoInputs.cache
+C:\RFP\C_sharp\Day-6-StopWatch\Day-6-StopWatch\obj\Debug\net6.0\Day-6-StopWatch.AssemblyInfo.cs
+C:\RFP\C_sharp\Day-6-StopWatch\Day-6-StopWatch\obj\Debug\net6.0\Day-6-StopWatch.csproj.CoreCompileInputs.cache
+C:\RFP\C_sharp\Day-6-StopWatch\Day-6-StopWatch\obj\Debug\net6.0\Day-6-StopWatch.dll
+C:\RFP\C_sharp\Day-6-StopWatch\Day-6-StopWatch\obj\Debug\net6.0\refint\Day-6-StopWatch.dll
+C:\RFP\C_sharp\Day-6-StopWatch\Day-6-StopWatch\obj\Debug\net6.0\Day-6-StopWatch.pdb
+C:\RFP\C_sharp\Day-6-StopWatch\Day-6-StopWatch\obj\Debug\net6.0\Day-6-StopWatch.genruntimeconfig.cache
+C:\RFP\C_sharp\Day-6-StopWatch\Day-6-StopWatch\obj\Debug\net6.0\ref\Day-6-StopWatch.dll
