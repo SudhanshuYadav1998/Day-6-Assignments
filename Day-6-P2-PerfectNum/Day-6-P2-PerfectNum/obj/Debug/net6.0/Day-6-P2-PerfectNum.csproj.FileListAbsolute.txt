@@ -1,0 +1,15 @@
+C:\RFP\C sharp\Day-6-P2-PerfectNum\Day-6-P2-PerfectNum\bin\Debug\net6.0\Day-6-P2-PerfectNum.exe
+C:\RFP\C sharp\Day-6-P2-PerfectNum\Day-6-P2-PerfectNum\bin\Debug\net6.0\Day-6-P2-PerfectNum.deps.json
+C:\RFP\C sharp\Day-6-P2-PerfectNum\Day-6-P2-PerfectNum\bin\Debug\net6.0\Day-6-P2-PerfectNum.runtimeconfig.json
+C:\RFP\C sharp\Day-6-P2-PerfectNum\Day-6-P2-PerfectNum\bin\Debug\net6.0\Day-6-P2-PerfectNum.dll
+C:\RFP\C sharp\Day-6-P2-PerfectNum\Day-6-P2-PerfectNum\bin\Debug\net6.0\Day-6-P2-PerfectNum.pdb
+C:\RFP\C sharp\Day-6-P2-PerfectNum\Day-6-P2-PerfectNum\obj\Debug\net6.0\Day-6-P2-PerfectNum.csproj.AssemblyReference.cache
+C:\RFP\C sharp\Day-6-P2-PerfectNum\Day-6-P2-PerfectNum\obj\Debug\net6.0\Day-6-P2-PerfectNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\RFP\C sharp\Day-6-P2-PerfectNum\Day-6-P2-PerfectNum\obj\Debug\net6.0\Day-6-P2-PerfectNum.AssemblyInfoInputs.cache
+C:\RFP\C sharp\Day-6-P2-PerfectNum\Day-6-P2-PerfectNum\obj\Debug\net6.0\Day-6-P2-PerfectNum.AssemblyInfo.cs
+C:\RFP\C sharp\Day-6-P2-PerfectNum\Day-6-P2-PerfectNum\obj\Debug\net6.0\Day-6-P2-PerfectNum.csproj.CoreCompileInputs.cache
+C:\RFP\C sharp\Day-6-P2-PerfectNum\Day-6-P2-PerfectNum\obj\Debug\net6.0\Day-6-P2-PerfectNum.dll
+C:\RFP\C sharp\Day-6-P2-PerfectNum\Day-6-P2-PerfectNum\obj\Debug\net6.0\refint\Day-6-P2-PerfectNum.dll
+C:\RFP\C sharp\Day-6-P2-PerfectNum\Day-6-P2-PerfectNum\obj\Debug\net6.0\Day-6-P2-PerfectNum.pdb
+C:\RFP\C sharp\Day-6-P2-PerfectNum\Day-6-P2-PerfectNum\obj\Debug\net6.0\Day-6-P2-PerfectNum.genruntimeconfig.cache
+C:\RFP\C sharp\Day-6-P2-PerfectNum\Day-6-P2-PerfectNum\obj\Debug\net6.0\ref\Day-6-P2-PerfectNum.dll
